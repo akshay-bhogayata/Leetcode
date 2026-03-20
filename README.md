@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/akshay-bhogayata/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/akshay-bhogayata/Leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/akshay-bhogayata/Leetcode/tree/master/0067-add-binary) |
+| [0224-basic-calculator](https://github.com/akshay-bhogayata/Leetcode/tree/master/0224-basic-calculator) |
 ## Recursion
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/akshay-bhogayata/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/akshay-bhogayata/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/akshay-bhogayata/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0224-basic-calculator](https://github.com/akshay-bhogayata/Leetcode/tree/master/0224-basic-calculator) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akshay-bhogayata/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0065-valid-number](https://github.com/akshay-bhogayata/Leetcode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/akshay-bhogayata/Leetcode/tree/master/0067-add-binary) |
+| [0224-basic-calculator](https://github.com/akshay-bhogayata/Leetcode/tree/master/0224-basic-calculator) |
 ## Sliding Window
 |  |
 | ------- |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/akshay-bhogayata/Leetcode/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/akshay-bhogayata/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0224-basic-calculator](https://github.com/akshay-bhogayata/Leetcode/tree/master/0224-basic-calculator) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
