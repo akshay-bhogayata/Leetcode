@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/akshay-bhogayata/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/akshay-bhogayata/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/akshay-bhogayata/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0135-candy](https://github.com/akshay-bhogayata/Leetcode/tree/master/0135-candy) |
 ## Binary Search
 |  |
 | ------- |
@@ -132,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/akshay-bhogayata/Leetcode/tree/master/0085-maximal-rectangle) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/akshay-bhogayata/Leetcode/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
