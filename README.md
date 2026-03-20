@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/akshay-bhogayata/Leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/akshay-bhogayata/Leetcode/tree/master/0067-add-binary) |
 | [0224-basic-calculator](https://github.com/akshay-bhogayata/Leetcode/tree/master/0224-basic-calculator) |
+| [0282-expression-add-operators](https://github.com/akshay-bhogayata/Leetcode/tree/master/0282-expression-add-operators) |
 ## Recursion
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/akshay-bhogayata/Leetcode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/akshay-bhogayata/Leetcode/tree/master/0067-add-binary) |
 | [0224-basic-calculator](https://github.com/akshay-bhogayata/Leetcode/tree/master/0224-basic-calculator) |
+| [0282-expression-add-operators](https://github.com/akshay-bhogayata/Leetcode/tree/master/0282-expression-add-operators) |
 ## Sliding Window
 |  |
 | ------- |
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/akshay-bhogayata/Leetcode/tree/master/0135-candy) |
+## Backtracking
+|  |
+| ------- |
+| [0282-expression-add-operators](https://github.com/akshay-bhogayata/Leetcode/tree/master/0282-expression-add-operators) |
 <!---LeetCode Topics End-->
