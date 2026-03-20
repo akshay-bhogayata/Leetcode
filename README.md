@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/akshay-bhogayata/Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/akshay-bhogayata/Leetcode/tree/master/0041-first-missing-positive) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/akshay-bhogayata/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/akshay-bhogayata/Leetcode/tree/master/0085-maximal-rectangle) |
 ## Binary Search
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akshay-bhogayata/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/akshay-bhogayata/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0085-maximal-rectangle](https://github.com/akshay-bhogayata/Leetcode/tree/master/0085-maximal-rectangle) |
 ## Trie
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/akshay-bhogayata/Leetcode/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/akshay-bhogayata/Leetcode/tree/master/0085-maximal-rectangle) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -118,4 +121,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/akshay-bhogayata/Leetcode/tree/master/0067-add-binary) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/akshay-bhogayata/Leetcode/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/akshay-bhogayata/Leetcode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
